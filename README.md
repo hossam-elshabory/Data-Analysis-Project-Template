@@ -1,7 +1,7 @@
 <h1 align="center">Project Title</h1>
 
 <div style="text-align:center;">
-    <img src="" alt="project-banner">
+    <img src="https://www.primemotorz.com/wp-content/uploads/2019/08/secondary-banner-placeholder.jpg" alt="project-banner">
 </div>
 
 ---
