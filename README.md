@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repository>/blob/<branch>/<path>/<to>/<notebook>.ipynb)
+
 <h1 align="center">Project Title</h1>
 
 <div style="text-align:center;">
