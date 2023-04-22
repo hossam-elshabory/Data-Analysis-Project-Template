@@ -24,16 +24,6 @@ This section would include a brief overview of the project, its goals, and the d
 This section describes the the data used for this project, it's sources and the method used to obtain it.
 
 
-# Data Preparation (Wrangling)
-
-This section would include steps taken to clean and pre-process the data, such as removing missing values, transforming variables, and scaling data.
-
-
-# Exploratory Data Analysis (EDA)
-
-This section would include exploratory analyses to better understand the data, such as summary statistics, histograms, scatterplots, and correlation matrices.
-
-
 # Conclusion
 
 This section would summarize the key findings of the project, its implications, and potential future directions.
