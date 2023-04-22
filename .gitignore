@@ -161,3 +161,6 @@ cython_debug/
 
 # Jupyter notebooks ipynb_checkpoints
 .ipynb_checkpoints/
+
+# vscode workspace settings
+*.vscode
