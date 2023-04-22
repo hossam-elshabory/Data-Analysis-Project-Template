@@ -50,7 +50,7 @@ This section would summarize the key findings of the project, its implications, 
 
 ****
 
-- Finding1
+- Finding2
     <details>
     <summary>Click to View Visualization.</summary>
 
