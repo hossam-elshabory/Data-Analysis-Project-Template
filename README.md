@@ -7,8 +7,6 @@
 ---
 - [Introduction](#introduction)
 - [Data Source](#data-source)
-- [Data Preparation (Wrangling)](#data-preparation-wrangling)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Conclusion](#conclusion)
   - [Findings Summary](#findings-summary)
 - [Acknowledgments](#acknowledgments)
