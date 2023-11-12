@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 from pandas import DataFrame, Series
+import pandas as pd
 import seaborn as sns
 from typing import Callable, List, Tuple, Union
 
