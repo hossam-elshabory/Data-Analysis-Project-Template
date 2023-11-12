@@ -32,7 +32,7 @@ jobs:
 
     - name: Check for Changes
       id: check-changes
-      run: echo "::set-output name=changes::$(git diff --name-only)"
+      run: echo "::name=changes::$(git diff --name-only)"
 
     - name: Commit and Push Changes (if needed)
       if: steps.check-changes.outputs.changes != ''
