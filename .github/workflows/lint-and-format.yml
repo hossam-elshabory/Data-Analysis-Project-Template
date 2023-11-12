@@ -23,7 +23,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install black mypy 
         pip install -r utility_scripts/requirements.txt
-        mypy --install-types
+        pip install pandas-stubs
 
     - name: Lint and Format
       run: black utility_scripts/ --check --diff
