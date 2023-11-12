@@ -24,6 +24,7 @@ jobs:
         pip install black mypy 
         pip install -r utility_scripts/requirements.txt
         pip install pandas-stubs
+        pip install pandas-stubs
 
     - name: Lint and Format
       run: black utility_scripts/ --check --diff
