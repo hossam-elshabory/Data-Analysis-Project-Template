@@ -10,6 +10,7 @@
 - [Conclusion](#conclusion)
   - [Findings Summary](#findings-summary)
 - [Acknowledgments](#acknowledgments)
+- [Recommendations for Stakeholders](#recommendations-for-stakeholders)
 
 
 # Introduction 
@@ -42,7 +43,7 @@ This section would summarize the key findings of the project, its implications, 
     <details>
     <summary>Click to View Visualization.</summary>
 
-    ![Alt text](Assets/)
+    ![Alt text](assets/)
     </details>
 
 
@@ -50,3 +51,4 @@ This section would summarize the key findings of the project, its implications, 
 
 In this section you should mention any external sources that helped you conduct this analysis and give credit.
 
+# Recommendations for Stakeholders
